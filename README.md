@@ -1,4 +1,4 @@
-### Hi there I'm 沈韩吉(SHJ, Hanji Shen). 👋 
+### Hi 👋, I’m 沈韩吉(SHJ, Hanji Shen). 
 
 I love coding and I aim to be a full stack developer. I’m currently learning Rust and modern C++.
 
