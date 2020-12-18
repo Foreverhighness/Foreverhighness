@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there I'm 沈韩吉(SHJ, Hanji Shen). 👋 
+
+I love coding and I aim to be a full stack developer. I’m currently learning Rust and modern C++.
+
+Currently I’m seeking for a job oppertunity.
+
+![Foreverhighness's github stats](https://github-readme-stats.vercel.app/api?username=Foreverhighness&count_private=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foreverhighness&layout=compact&count_private=true&theme=dracula)
 
 <!--
 **Foreverhighness/Foreverhighness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
