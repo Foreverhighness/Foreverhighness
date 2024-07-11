@@ -1,8 +1,8 @@
-### Hi 👋, I’m 沈韩吉(SHJ, Hanji Shen). 
+### Hi 👋, I’m 沈韩吉(SHJ, Hange Shen). 
 
 ![Foreverhighness](https://komarev.com/ghpvc/?username=Foreverhighness&label=PROFILE+VIEWS)
 
-I love coding and I aim to be a full stack developer. I’m currently learning Rust and modern C++.
+I love coding and I aim to be a full stack developer. I’m currently learning stuff about database system and operating system.
 
 Currently I’m seeking for a job oppertunity.
 
